@@ -45,4 +45,4 @@ Customize this template to match your brand and style, including:
 ### **1. Clone the Repository**  
 Clone this repository to your local machine:  
 ```bash  
-git clone https://github.com/<your-username>/photographer-portfolio-template.git  
+git clone https://github.com/notkhorii/portfolio-basic-photographer.git
